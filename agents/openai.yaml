@@ -1,0 +1,7 @@
+interface:
+  display_name: "Gauntlet Prompt"
+  short_description: "Turn rough prompts into clear Gauntlet Loop prompts"
+  default_prompt: "Use $gauntlet-prompt to turn my task into a complete Gauntlet Loop prompt. Ask me what you need to know first."
+
+policy:
+  allow_implicit_invocation: true
